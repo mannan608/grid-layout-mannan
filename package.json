@@ -1,6 +1,6 @@
 {
   "name": "grid-layout-mannan",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "types": "index.d.ts",
   "description": "A simple responsive React grid layout component",
