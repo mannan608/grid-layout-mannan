@@ -1,0 +1,19 @@
+{
+  "name": "grid-layout-mannan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "description": "A simple responsive React grid layout component",
+  "author": "Md Abdul Mannan",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "grid",
+    "layout",
+    "component"
+  ],
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
